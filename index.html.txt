@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jeet Zala | AWS Cloud Engineer</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Jeet Zala</h1>
+    <p>AWS Cloud & DevOps Portfolio - Pipeline Test Successful</p>
+</header>
+
+<section class="hero">
+    <h2>Building Cloud Solutions on AWS</h2>
+
+    <p>
+        AWS Cloud Practitioner | Infrastructure | Serverless | DevOps
+    </p>
+
+    <a href="#projects" class="btn">
+        View Projects
+    </a>
+</section>
+
+<section id="projects">
+
+    <h2>Cloud Projects</h2>
+
+    <div class="card">
+        <h3>AWS Static Website Hosting</h3>
+        <p>Hosted a static website using Amazon S3.</p>
+    </div>
+
+    <div class="card">
+        <h3>AWS 3-Tier Infrastructure</h3>
+        <p>Designed a scalable architecture using VPC, EC2, Auto Scaling and RDS.</p>
+    </div>
+
+    <div class="card">
+        <h3>AWS Eye Hospital EMR System</h3>
+        <p>Serverless healthcare application using API Gateway, Lambda and DynamoDB.</p>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 Jeet Zala</p>
+</footer>
+
+</body>
+</html>
