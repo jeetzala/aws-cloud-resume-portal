@@ -11,7 +11,7 @@
 
 <header>
     <h1>Jeet Zala</h1>
-    <p>AWS Cloud & DevOps Portfolio - Pipeline Test Successful</p>
+    <p>AWS Cloud & DevOps Portfolio - Pipeline Test Successful Auto Update</p>
 </header>
 
 <section class="hero">
