@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f5f7fa;
+}
+
+header{
+    background:#232F3E;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+.hero{
+    text-align:center;
+    padding:80px 20px;
+}
+
+.btn{
+    background:#FF9900;
+    color:white;
+    text-decoration:none;
+    padding:12px 24px;
+    border-radius:8px;
+}
+
+#projects{
+    padding:40px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.1);
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+}
