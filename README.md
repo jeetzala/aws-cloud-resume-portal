@@ -22,7 +22,7 @@ This eliminates manual deployments and follows real-world cloud engineering and 
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](screenshots/01-project-architecture-diagram.png)
+![Architecture](screenshots/project-architecture-diagram.png)
 
 ---
 
@@ -76,11 +76,11 @@ aws-cloud-resume-portal/
 
 ### Repository Created
 
-![GitHub Repository](screenshots/02-github-repository-created.png)
+![GitHub Repository](screenshots/github-repository-created.png)
 
 ### Project Files
 
-![GitHub Files](screenshots/03-github-project-files.png)
+![GitHub Files](screenshots/github-project-files.png)
 
 ---
 
@@ -88,19 +88,19 @@ aws-cloud-resume-portal/
 
 ### S3 Bucket Created
 
-![S3 Bucket](screenshots/04-s3-bucket-created.png)
+![S3 Bucket](screenshots/s3-bucket-created.png)
 
 ### Static Website Hosting Enabled
 
-![Static Hosting](screenshots/05-s3-static-hosting-enabled.png)
+![Static Hosting](screenshots/s3-static-hosting-enabled.png)
 
 ### Bucket Policy Configuration
 
-![Bucket Policy](screenshots/06-s3-bucket-policy.png)
+![Bucket Policy](screenshots/s3-bucket-policy.png)
 
 ### Live Website
 
-![Live Website](screenshots/07-s3-live-website.png)
+![Live Website](screenshots/s3-live-website.png)
 
 ---
 
@@ -108,15 +108,15 @@ aws-cloud-resume-portal/
 
 ### CodeBuild Project
 
-![CodeBuild](screenshots/08-codebuild-project-created.png)
+![CodeBuild](screenshots/codebuild-project-created.png)
 
 ### Source Stage Configuration
 
-![Source Stage](screenshots/09-source-stage-config.png)
+![Source Stage](screenshots/source-stage-config.png)
 
 ### CodePipeline Configuration
 
-![Pipeline](screenshots/10-codepipeline-created.png)
+![Pipeline](screenshots/codepipeline-created.png)
 
 ---
 
@@ -124,11 +124,11 @@ aws-cloud-resume-portal/
 
 ### Pipeline Success
 
-![Pipeline Success](screenshots/11-codepipeline-success.png)
+![Pipeline Success](screenshots/codepipeline-success.png)
 
 ### Automatic Website Update
 
-![Auto Deployment](screenshots/12-website-auto-updated.png)
+![Auto Deployment](screenshots/website-auto-updated.png)
 
 ---
 
